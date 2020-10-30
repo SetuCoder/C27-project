@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Oscillating Pendulum Project
+
+https://setucoder.github.io/C27-project/
